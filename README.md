@@ -1,10 +1,7 @@
-# `monoidmap-internal`
-
-[![Latest Release](
-  https://img.shields.io/hackage/v/monoidmap-internal?label=Latest%20Release&color=227755
-)](https://hackage.haskell.org/package/monoidmap-internal)
-[![Development Branch](
-  https://img.shields.io/badge/Development%20Branch-API%20Documentation-225577
-)](https://jonathanknowles.github.io/monoidmap-internal/)
-
-Internal support for the [`monoidmap`](https://github.com/jonathanknowles/monoidmap) package.
+> [!IMPORTANT]
+>
+> This package has moved to
+> [`packages/monoidmap-internal`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-internal)
+> in the [`monoidmap`](https://github.com/jonathanknowles/monoidmap) repository.
+>
+> This repository will no longer be updated.
